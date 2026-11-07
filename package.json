@@ -1,0 +1,11 @@
+{
+  "name": "mirath-ts-hajb-exclusion-graph",
+  "version": "1.0.0",
+  "description": "Hajb Hirman (Total Exclusion) & Hajb Nuqsan Graph Eliminator (مصفوفة الحجب حرماناً ونقصاناً بين الورثة)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
